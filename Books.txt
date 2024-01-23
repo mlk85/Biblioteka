@@ -1,0 +1,8 @@
+tak
+Proces
+listaOczekujacych1.txt
+
+tak
+Dzuma
+listaOczekujacych2.txt
+
